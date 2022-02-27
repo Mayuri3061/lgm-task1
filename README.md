@@ -1,2 +1,3 @@
-# lgm-task1
-LGM intern web development 
+# LGM_VIP
+Web Development Intern
+Task1
